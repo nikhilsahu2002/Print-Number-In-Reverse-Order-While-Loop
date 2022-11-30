@@ -9,8 +9,8 @@ scanf("%d",&num);
 
 while (i<=num)
 {
-	printf("%d",i);
-	i++;
+	printf("%d",num);
+	num--;
 }
 getch();
 }
